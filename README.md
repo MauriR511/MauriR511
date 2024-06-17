@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello,  I am a fourth-year software engineering student🔥. I am passionate about coding and enjoy exploring different programming languages and technologies 🧑‍💻. As a student of software engineering, I have gained valuable experience in developing software applications and have worked on several projects that have helped me sharpen my coding skills.
+Hello,  I am a fifth-year software engineering student🔥. I am passionate about coding and enjoy exploring different programming languages and technologies 🧑‍💻. As a student of software engineering, I have gained valuable experience in developing software applications and have worked on several projects that have helped me sharpen my coding skills.
 
 
 
